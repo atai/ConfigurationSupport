@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
+	<Enum uuid="c19f88a5-1a63-4201-97e8-ea0911951bed">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.eco_ТрекерыЗадач" category="Ref">
+				<xr:TypeId>1acc071b-8bbd-4dbf-a21b-cbecaf786770</xr:TypeId>
+				<xr:ValueId>14895bb0-ead7-4405-93e0-05cc7adfe0bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.eco_ТрекерыЗадач" category="Manager">
+				<xr:TypeId>bd713e31-8680-491b-9eaa-fd8a0e762318</xr:TypeId>
+				<xr:ValueId>a7f6d588-d695-4d1c-b0a4-80ddf0ce5d1a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.eco_ТрекерыЗадач" category="List">
+				<xr:TypeId>884e73a4-1309-4929-9f52-6d4544510a63</xr:TypeId>
+				<xr:ValueId>dacafa71-075c-46c8-a537-bbe19ee10605</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>eco_ТрекерыЗадач</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Трекеры задач</v8:content>
+				</v8:item>
+			</Synonym>
+			<Comment/>
+			<UseStandardCommands>false</UseStandardCommands>
+			<Characteristics/>
+			<QuickChoice>true</QuickChoice>
+			<ChoiceMode>BothWays</ChoiceMode>
+			<DefaultListForm/>
+			<DefaultChoiceForm/>
+			<AuxiliaryListForm/>
+			<AuxiliaryChoiceForm/>
+			<ListPresentation/>
+			<ExtendedListPresentation/>
+			<Explanation/>
+			<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="16e92db5-0f20-4de2-bb40-aff0bf41062f">
+				<Properties>
+					<Name>Redmine</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Redmine</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+			<EnumValue uuid="8563f7ed-5838-43fb-babe-9a667ec7c122">
+				<Properties>
+					<Name>Jira</Name>
+					<Synonym>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Jira</v8:content>
+						</v8:item>
+					</Synonym>
+					<Comment/>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
