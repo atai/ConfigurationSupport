@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
 	<ConfigVersions>
-		<Metadata name="Catalog.eco_ИнтеграцииСТрекерСистемой" id="e85592a7-e8cc-4bff-a25c-89f17af63437" configVersion="c66dfb0fb7a8ff8f257834e00c354e964dd102ad"/>
+		<Metadata name="Catalog.eco_ИнтеграцииСТрекерСистемой" id="e85592a7-e8cc-4bff-a25c-89f17af63437" configVersion="3dda899c84ac7614f8a0cf7fab3e464d097c7834">
+			<Metadata name="Catalog.eco_ИнтеграцииСТрекерСистемой.TabularSection.СопоставлениеПользователей" id="3c999e76-9b3f-42f2-bc9a-b2e310486a2d"/>
+			<Metadata name="Catalog.eco_ИнтеграцииСТрекерСистемой.TabularSection.СопоставлениеПользователей.Attribute.ПользовательТС_Имя" id="44a9abe8-4583-444d-84ab-74f38d689678"/>
+			<Metadata name="Catalog.eco_ИнтеграцииСТрекерСистемой.TabularSection.СопоставлениеПользователей.Attribute.ПользовательИБ" id="65da962f-dab2-42f3-811c-35928e23b357"/>
+			<Metadata name="Catalog.eco_ИнтеграцииСТрекерСистемой.TabularSection.СопоставлениеПользователей.Attribute.ПользовательТС_УИД" id="ce1d8652-ae99-4fcf-99a9-7aa6245e221c"/>
+		</Metadata>
 		<Metadata name="Catalog.eco_ОбращенияВТехподдержку" id="15468b73-c3bd-41f3-ad48-fd497a8812b9" configVersion="9e891c64a8037d0431999bc30b69cb70be2640b8">
 			<Metadata name="Catalog.eco_ОбращенияВТехподдержку.TabularSection.Уведомления" id="1b148a33-8e80-4a08-b71a-233bc89561a7"/>
 			<Metadata name="Catalog.eco_ОбращенияВТехподдержку.TabularSection.Уведомления.Attribute.Использовать" id="5833a4ad-f253-4795-870a-73a77101441f"/>
@@ -12,26 +17,22 @@
 		<Metadata name="Catalog.eco_СтатусыОбращенийВТехподдержку" id="38291db3-06c3-45ca-81b3-86600e346703" configVersion="86144120d6103d1d7bd27201e40ff41d2551adef">
 			<Metadata name="Catalog.eco_СтатусыОбращенийВТехподдержку.Attribute.Порядок" id="a4bfacc8-80f6-4d69-aa91-13dd9b01517d"/>
 		</Metadata>
+		<Metadata name="Catalog.Пользователи" id="b2ed1a75-3803-451e-962a-eb8d4a9c3284" configVersion="48bc87d8de43816eb1a03bc0f264f69216cf9cb5"/>
 		<Metadata name="CommonCommand.eco_ЗаписатьЭкран" id="7e1790f5-1254-4af3-98f4-c2acd2c21a01" configVersion="0cc6a4f85c3ffbda53589ee351a01e3d105bc13a"/>
 		<Metadata name="CommonCommand.eco_ЗаписатьЭкран.CommandModule" id="7e1790f5-1254-4af3-98f4-c2acd2c21a01.2" configVersion="5f0b3d883fe326b266d13f9349e08ba99e98508c"/>
-		<Metadata name="CommonCommand.eco_НастройкиТехподдержки" id="f4e204f5-cdae-4edd-857c-c5a547fe413f" configVersion="60ab72266e973ae671372cb9835be3480ad11080"/>
-		<Metadata name="CommonCommand.eco_НастройкиТехподдержки.CommandModule" id="f4e204f5-cdae-4edd-857c-c5a547fe413f.2" configVersion="25359f01cd4adb8639e4c90d5a0f4714b5e27fe9"/>
 		<Metadata name="CommonModule.eco_СлужебныеОбработки" id="cc13a9c9-3aeb-479e-806b-7d3b87ba7a92" configVersion="6b0566054321139bde6dadfed88194544e002551"/>
-		<Metadata name="CommonModule.eco_СлужебныеОбработки.Module" id="cc13a9c9-3aeb-479e-806b-7d3b87ba7a92.0" configVersion="251fb0a9e349e7e4cee2343674a30768c53b1b88"/>
+		<Metadata name="CommonModule.eco_СлужебныеОбработки.Module" id="cc13a9c9-3aeb-479e-806b-7d3b87ba7a92.0" configVersion="45112eff2138b8be47da1f196d45fecb09c84eb3"/>
 		<Metadata name="CommonPicture.eco_Техподдержка" id="e0a659c3-65ff-4478-a224-282cf8f78ebc" configVersion="e9fe8a13567217a78b765fc765e64c22c7f8de99"/>
 		<Metadata name="CommonPicture.eco_Техподдержка.Picture" id="e0a659c3-65ff-4478-a224-282cf8f78ebc.0" configVersion="1bcc753326066d109722cc3cc2b1f0db8b9ca1c8"/>
 		<Metadata name="CommonTemplate.eco_LICENCE" id="311f3826-d6da-47d4-83fc-653be6b0d42a" configVersion="18760fadfafa1f341b99be99f880d6bb22ced756"/>
 		<Metadata name="CommonTemplate.eco_LICENCE.Template" id="311f3826-d6da-47d4-83fc-653be6b0d42a.0" configVersion="00914e865e05927ddf3775c1825e45230da59538"/>
 		<Metadata name="CommonTemplate.eco_NOTICE" id="283812c5-fa8c-42a2-b46c-317a17a5325f" configVersion="3f722133323cb1d1783951e4357e553128b6330a"/>
 		<Metadata name="CommonTemplate.eco_NOTICE.Template" id="283812c5-fa8c-42a2-b46c-317a17a5325f.0" configVersion="d85a14dcc50c1e1395b5ef780039c5ece4e6d8ab"/>
-		<Metadata name="Configuration.Техподдержка" id="71d86542-0a62-4c7b-b178-536df5c87176" configVersion="a9b8eb3b5b33655db011a9bf2c8abfd2ef2e1fb4"/>
+		<Metadata name="Configuration.Техподдержка" id="71d86542-0a62-4c7b-b178-536df5c87176" configVersion="ce3f720f205d712da3b0b4141f5fd597ded152c5"/>
 		<Metadata name="Configuration.Техподдержка.CommandInterface" id="666b79d6-2b33-4136-9f95-1308b4b7b5f8.a" configVersion="e26c76af65c7011f6e5d2de523e4cfb1e263fddf"/>
 		<Metadata name="Configuration.Техподдержка.HomePageWorkArea" id="666b79d6-2b33-4136-9f95-1308b4b7b5f8.8" configVersion="862178df6b263c79d3fbc359c0081102703bb6cf"/>
 		<Metadata name="Configuration.Техподдержка.Logo" id="666b79d6-2b33-4136-9f95-1308b4b7b5f8.1" configVersion="1bcc753326066d109722cc3cc2b1f0db8b9ca1c8"/>
 		<Metadata name="Configuration.Техподдержка.ManagedApplicationModule" id="666b79d6-2b33-4136-9f95-1308b4b7b5f8.6" configVersion="6e9982d2a1b287f2d5c39f30dc1b979ac91bb826"/>
-		<Metadata name="DataProcessor.eco_Техподдержка" id="7471d767-daec-4525-83a8-7339bc6dd3c2" configVersion="5cc94d88209ddcd54638e2dbe2aa0a9d5d2dcdb4"/>
-		<Metadata name="DataProcessor.eco_Техподдержка.Form.Настройки" id="92c1319e-9e3d-4599-b29e-97d6d2485f24" configVersion="98177001fac6f1e542081f313f2f61dd8b44db7f"/>
-		<Metadata name="DataProcessor.eco_Техподдержка.Form.Настройки.Form" id="92c1319e-9e3d-4599-b29e-97d6d2485f24.0" configVersion="cc5b084e25426db496ca2776f80de56db1811ca7"/>
 		<Metadata name="Enum.eco_ВидыУведомленийТехподдержки" id="f05e78ee-ec57-42a6-aa54-e78af3647a39" configVersion="19b9c5eac370cc55ef4c5f2ee01e5cda1e38df2c">
 			<Metadata name="Enum.eco_ВидыУведомленийТехподдержки.EnumValue.ВебСервис" id="20a8ba4f-f397-48d5-b8bc-b34d7583acad"/>
 			<Metadata name="Enum.eco_ВидыУведомленийТехподдержки.EnumValue.СМС" id="b8b72860-28a0-454c-8aaf-cdf06649642f"/>
@@ -56,14 +57,14 @@
 			<Metadata name="InformationRegister.eco_НастройкиУведомлений.Dimension.ВидУведомления" id="c6d4bc21-f96e-4257-8108-2ae2e1a831a7"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="d71a7f44-0be9-4f4f-890a-8a940b7cc864" configVersion="3a50fc8d4667b2e0fad238d822abffff003d8b13"/>
-		<Metadata name="Role.eco_АдминистраторыТехподдержки" id="4b653b23-d6e5-4a6a-9d9f-47c3788a32fa" configVersion="85d86bf418cef7c961b827641592a67df430b7d2"/>
-		<Metadata name="Role.eco_АдминистраторыТехподдержки.Rights" id="4b653b23-d6e5-4a6a-9d9f-47c3788a32fa.0" configVersion="16ebfd0e54a7b563ae9256b4f29844a1be073e34"/>
+		<Metadata name="Role.eco_АдминистраторыРасширения" id="4b653b23-d6e5-4a6a-9d9f-47c3788a32fa" configVersion="2c79a5d757ab36fe7d3c5c64e94b750e66b61ef7"/>
+		<Metadata name="Role.eco_АдминистраторыРасширения.Rights" id="4b653b23-d6e5-4a6a-9d9f-47c3788a32fa.0" configVersion="16ebfd0e54a7b563ae9256b4f29844a1be073e34"/>
 		<Metadata name="Role.eco_ПользователиТехподдержки" id="727db7f1-c8fc-48a6-84ab-d70a7b88261a" configVersion="66959af6dd902df284205307b7a7553f0e3c7f9c"/>
 		<Metadata name="Role.eco_ПользователиТехподдержки.Rights" id="727db7f1-c8fc-48a6-84ab-d70a7b88261a.0" configVersion="53272ec729fdf77a3a6defa069dd8da26b42d88e"/>
 		<Metadata name="Role.ПолныеПрава" id="cc6eba05-8a11-4213-82e6-3ceab1d20198" configVersion="3de914682bf507f1dec245270d7f3613bb6ff817"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="cc6eba05-8a11-4213-82e6-3ceab1d20198.0" configVersion="5ff43d01249b326ad84ecf8fdaa9fa3472744e19"/>
 		<Metadata name="Subsystem.eco_Техподдержка" id="3c3735e2-11c7-4fb7-b290-ce5cd7b74e47" configVersion="db62046c4cf34fd3edfebead6e7bdf4d0a906946"/>
-		<Metadata name="Subsystem.eco_Техподдержка.CommandInterface" id="3c3735e2-11c7-4fb7-b290-ce5cd7b74e47.1" configVersion="32a89be62d4537488de6722cc65597ea20fc659f"/>
+		<Metadata name="Subsystem.eco_Техподдержка.CommandInterface" id="3c3735e2-11c7-4fb7-b290-ce5cd7b74e47.1" configVersion="e83c3e20039452605a8a876f1dc5a2a4c509d40e"/>
 		<Metadata name="Subsystem.eco_Техподдержка.Subsystem.Настройки" id="3c23bebc-6101-441e-98f6-06b44014fddc" configVersion="289b822c3435bafaa8ded5bc53bcd26f636d4b98"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
