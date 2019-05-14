@@ -78,7 +78,7 @@
 					<v8:content>https://github.com/atai/ConfigurationSupport</v8:content>
 				</v8:item>
 			</ConfigurationInformationAddress>
-			<InterfaceCompatibilityMode>TaxiEnableVersion8_2</InterfaceCompatibilityMode>
+			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_12</CompatibilityMode>
 		</Properties>
 		<ChildObjects>
@@ -95,6 +95,7 @@
 			<CommonCommand>eco_НастройкиТехподдержки</CommonCommand>
 			<Catalog>eco_ОбращенияВТехподдержку</Catalog>
 			<Catalog>eco_СтатусыОбращенийВТехподдержку</Catalog>
+			<Catalog>eco_ИнтеграцииСТрекерСистемой</Catalog>
 			<Enum>eco_ВидыУведомленийТехподдержки</Enum>
 			<Enum>eco_ПриоритетОбращения</Enum>
 			<Enum>eco_ТрекерыЗадач</Enum>

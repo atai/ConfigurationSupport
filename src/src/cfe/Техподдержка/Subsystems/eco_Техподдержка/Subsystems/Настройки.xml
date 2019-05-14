@@ -1,34 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.7">
-	<DataProcessor uuid="7471d767-daec-4525-83a8-7339bc6dd3c2">
-		<InternalInfo>
-			<xr:GeneratedType name="DataProcessorObject.eco_Техподдержка" category="Object">
-				<xr:TypeId>7e00acad-6ad5-4701-ae48-4a87613fb99d</xr:TypeId>
-				<xr:ValueId>2a4e7b0e-5100-4df1-a050-bc36d9a95659</xr:ValueId>
-			</xr:GeneratedType>
-			<xr:GeneratedType name="DataProcessorManager.eco_Техподдержка" category="Manager">
-				<xr:TypeId>32b694c1-3ed3-43b9-9c32-c60be0245e7f</xr:TypeId>
-				<xr:ValueId>da2faafd-1aa0-4072-9847-8c67806d7fc4</xr:ValueId>
-			</xr:GeneratedType>
-		</InternalInfo>
+	<Subsystem uuid="3c23bebc-6101-441e-98f6-06b44014fddc">
 		<Properties>
-			<Name>eco_Техподдержка</Name>
+			<Name>Настройки</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Техподдержка</v8:content>
+					<v8:content>Настройки</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<UseStandardCommands>true</UseStandardCommands>
-			<DefaultForm/>
-			<AuxiliaryForm/>
-			<IncludeHelpInContents>false</IncludeHelpInContents>
-			<ExtendedPresentation/>
+			<IncludeHelpInContents>true</IncludeHelpInContents>
+			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
+			<Picture/>
+			<Content>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.eco_ИнтеграцииСТрекерСистемой</xr:Item>
+			</Content>
 		</Properties>
-		<ChildObjects>
-			<Form>Настройки</Form>
-		</ChildObjects>
-	</DataProcessor>
+		<ChildObjects/>
+	</Subsystem>
 </MetaDataObject>
