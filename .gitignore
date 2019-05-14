@@ -1,1 +1,3 @@
 /src/**/*.cfe
+/src/Базы/**
+! /src/Базы/README.md
