@@ -53,7 +53,7 @@
 			<Language>Русский</Language>
 			<Subsystem>eco_Техподдержка</Subsystem>
 			<CommonPicture>eco_Техподдержка</CommonPicture>
-			<Role>eco_ПользователиТехподдержки</Role>
+			<Role>eco_ПользователиРасширения</Role>
 			<Role>eco_АдминистраторыРасширения</Role>
 			<Role>ПолныеПрава</Role>
 			<CommonTemplate>eco_LICENCE</CommonTemplate>

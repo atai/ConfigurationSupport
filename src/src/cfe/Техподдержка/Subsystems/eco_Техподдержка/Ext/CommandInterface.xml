@@ -14,7 +14,7 @@
 		<Command name="Catalog.eco_ОбращенияВТехподдержку.StandardCommand.OpenList">
 			<Visibility>
 				<xr:Common>true</xr:Common>
-				<xr:Value name="Role.eco_ПользователиТехподдержки">true</xr:Value>
+				<xr:Value name="Role.eco_ПользователиРасширения">true</xr:Value>
 			</Visibility>
 		</Command>
 		<Command name="Catalog.eco_ОбращенияВТехподдержку.StandardCommand.Create">

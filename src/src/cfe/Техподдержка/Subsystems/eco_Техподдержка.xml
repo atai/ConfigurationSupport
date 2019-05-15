@@ -20,13 +20,8 @@
 			<Content>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonCommand.eco_ЗаписатьЭкран</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.eco_ОбращенияВТехподдержку</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">f4e204f5-cdae-4edd-857c-c5a547fe413f</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ВидыУведомленийТехподдержки</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.eco_НастройкиУведомлений</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ПриоритетОбращения</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Catalog.eco_СтатусыОбращенийВТехподдержку</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ТрекерыЗадач</xr:Item>
-				<xr:Item xsi:type="xr:MDObjectRef">InformationRegister.eco_Настройки</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects>
