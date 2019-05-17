@@ -60,11 +60,12 @@
 		<Metadata name="Role.eco_АдминистраторыРасширения" id="4b653b23-d6e5-4a6a-9d9f-47c3788a32fa" configVersion="2c79a5d757ab36fe7d3c5c64e94b750e66b61ef7"/>
 		<Metadata name="Role.eco_АдминистраторыРасширения.Rights" id="4b653b23-d6e5-4a6a-9d9f-47c3788a32fa.0" configVersion="84990ceae26f2384b42fa5e4173e8c288ffbe1cd"/>
 		<Metadata name="Role.eco_ПользователиРасширения" id="727db7f1-c8fc-48a6-84ab-d70a7b88261a" configVersion="9f477d73546545a0ed9f0c81d8d66906e3514760"/>
-		<Metadata name="Role.eco_ПользователиРасширения.Rights" id="727db7f1-c8fc-48a6-84ab-d70a7b88261a.0" configVersion="6454b7712ca5a527f934a3f8c59a108f9c65adf2"/>
+		<Metadata name="Role.eco_ПользователиРасширения.Rights" id="727db7f1-c8fc-48a6-84ab-d70a7b88261a.0" configVersion="8ef649a9ad9f90248a6be71aa454089560452a32"/>
 		<Metadata name="Role.ПолныеПрава" id="cc6eba05-8a11-4213-82e6-3ceab1d20198" configVersion="3de914682bf507f1dec245270d7f3613bb6ff817"/>
-		<Metadata name="Role.ПолныеПрава.Rights" id="cc6eba05-8a11-4213-82e6-3ceab1d20198.0" configVersion="1b17fbbd3d5c395a1b008e4d6c38e56d17e33402"/>
+		<Metadata name="Role.ПолныеПрава.Rights" id="cc6eba05-8a11-4213-82e6-3ceab1d20198.0" configVersion="1efb4c17421bfaf2eb7d6d66674a179ed0fb2502"/>
 		<Metadata name="Subsystem.eco_Техподдержка" id="3c3735e2-11c7-4fb7-b290-ce5cd7b74e47" configVersion="9ea6a9936255465372913a2c7ee23b46f2417a06"/>
 		<Metadata name="Subsystem.eco_Техподдержка.CommandInterface" id="3c3735e2-11c7-4fb7-b290-ce5cd7b74e47.1" configVersion="e83c3e20039452605a8a876f1dc5a2a4c509d40e"/>
 		<Metadata name="Subsystem.eco_Техподдержка.Subsystem.Настройки" id="3c23bebc-6101-441e-98f6-06b44014fddc" configVersion="4051ae10a67f819f515b440ece09967555d202d3"/>
+		<Metadata name="Subsystem.eco_Техподдержка.Subsystem.Настройки.CommandInterface" id="3c23bebc-6101-441e-98f6-06b44014fddc.1" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

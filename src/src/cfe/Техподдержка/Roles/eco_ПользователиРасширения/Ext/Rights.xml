@@ -146,6 +146,13 @@
 		</right>
 	</object>
 	<object>
+		<name>Subsystem.eco_Техподдержка.Subsystem.Настройки</name>
+		<right>
+			<name>View</name>
+			<value>true</value>
+		</right>
+	</object>
+	<object>
 		<name>Subsystem.eco_Техподдержка</name>
 		<right>
 			<name>View</name>
