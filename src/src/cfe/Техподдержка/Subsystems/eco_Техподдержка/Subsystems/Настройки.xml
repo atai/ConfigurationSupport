@@ -21,6 +21,7 @@
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ВидыУведомленийТехподдержки</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ПриоритетОбращения</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ТрекерыЗадач</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">Enum.eco_ПротоколыWeb</xr:Item>
 			</Content>
 		</Properties>
 		<ChildObjects/>

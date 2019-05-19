@@ -59,6 +59,7 @@
 			<CommonTemplate>eco_LICENCE</CommonTemplate>
 			<CommonTemplate>eco_NOTICE</CommonTemplate>
 			<CommonModule>eco_СлужебныеОбработки</CommonModule>
+			<CommonModule>eco_ИнтеграцияRedmine</CommonModule>
 			<CommonCommand>eco_ЗаписатьЭкран</CommonCommand>
 			<Catalog>eco_ИнтеграцииСТрекерСистемой</Catalog>
 			<Catalog>eco_ОбращенияВТехподдержку</Catalog>
@@ -67,6 +68,7 @@
 			<Enum>eco_ВидыУведомленийТехподдержки</Enum>
 			<Enum>eco_ПриоритетОбращения</Enum>
 			<Enum>eco_ТрекерыЗадач</Enum>
+			<Enum>eco_ПротоколыWeb</Enum>
 			<InformationRegister>eco_НастройкиУведомлений</InformationRegister>
 			<InformationRegister>eco_Настройки</InformationRegister>
 		</ChildObjects>
